@@ -8,7 +8,11 @@ function NavBar() {
       <nav className="navbar navbar-expand-lg navbar-white bg-white static-top">
         <div className="container">
           <Link to="guvi-home" className="navbar-brand">
-            <img src=".\src\assets\guvi.jpg" alt="..." height="36" />
+            <img
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREgtGrnhTIGY_jg4pAO2sV5LdFQYsj6Eqs8ShnyEnU5Dax5KZe43RNwIBkRH6NIDVuXcM&usqp=CAU"
+              alt="..."
+              height="36"
+            />
           </Link>
           <button
             className="navbar-toggler"
